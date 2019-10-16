@@ -7420,6 +7420,9 @@ message MetricsEvent {
 
     // CustomSettings constant
     CUSTOM_SETTINGS = 1999;
+    
+    // Cerberus Constant
+    CERBERUS_SETTINGS = 2000;
 
   }
 }
